@@ -1,0 +1,75 @@
+ITEMID,CATEGORY,LABEL,ABBREVIATION,VALUE
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,1st AV (First degree AV Block) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,2nd AV M2 (Second degree AV Block - Mobitz 2) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,2nd AV W-M1 (Second degree AV Block Wenckebach - Mobitz1) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,3rd AV (Complete Heart Block) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,A Flut (Atrial Flutter) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,A Paced
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,AF (Atrial Fibrillation)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,Asystole
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,AV Paced
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,Idioventricular
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,JR (Junctional Rhythm)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,JT (Junctional Tachycardia) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,LBBB (Left Bundle Branch Block) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,MAT (Multifocal atrial tachycardia)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,PAT (Paroxysmal Atrial Tachycardia)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,PJT (Paroxysmal Junctional Tachycardia) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,RBBB (Right Bundle Branch Block) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,SA (Sinus Arrhythmia)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,SB (Sinus Bradycardia)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,SR (Sinus Rhythm)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,ST (Sinus Tachycardia) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,SVT (Supra Ventricular Tachycardia)
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,V Paced
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,VF (Ventricular Fibrillation) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,VT (Ventricular Tachycardia) 
+220048,Routine Vital Signs,Heart Rhythm,Heart Rhythm,WAP (Wandering atrial pacemaker)
+223976,Cardiovascular,RUE Color,RUE Color,Ashen
+223976,Cardiovascular,RUE Color,RUE Color,Cyanotic
+223976,Cardiovascular,RUE Color,RUE Color,Dusky
+223976,Cardiovascular,RUE Color,RUE Color,Flushed
+223976,Cardiovascular,RUE Color,RUE Color,Mottled
+223976,Cardiovascular,RUE Color,RUE Color,Normal
+223976,Cardiovascular,RUE Color,RUE Color,Pale
+223976,Cardiovascular,RUE Color,RUE Color,Pink
+223979,Cardiovascular,RLE Color,RLE Color,Ashen
+223979,Cardiovascular,RLE Color,RLE Color,Cyanotic
+223979,Cardiovascular,RLE Color,RLE Color,Dusky
+223979,Cardiovascular,RLE Color,RLE Color,Flushed
+223979,Cardiovascular,RLE Color,RLE Color,Mottled
+223979,Cardiovascular,RLE Color,RLE Color,Normal
+223979,Cardiovascular,RLE Color,RLE Color,Pale
+223979,Cardiovascular,RLE Color,RLE Color,Pink
+223982,Cardiovascular,LUE Color,LUE Color,Ashen
+223982,Cardiovascular,LUE Color,LUE Color,Cyanotic
+223982,Cardiovascular,LUE Color,LUE Color,Dusky
+223982,Cardiovascular,LUE Color,LUE Color,Flushed
+223982,Cardiovascular,LUE Color,LUE Color,Mottled
+223982,Cardiovascular,LUE Color,LUE Color,Normal
+223982,Cardiovascular,LUE Color,LUE Color,Pale
+223982,Cardiovascular,LUE Color,LUE Color,Pink
+223983,Cardiovascular,LLE Color,LLE Color,Ashen
+223983,Cardiovascular,LLE Color,LLE Color,Cyanotic
+223983,Cardiovascular,LLE Color,LLE Color,Dusky
+223983,Cardiovascular,LLE Color,LLE Color,Flushed
+223983,Cardiovascular,LLE Color,LLE Color,Mottled
+223983,Cardiovascular,LLE Color,LLE Color,Normal
+223983,Cardiovascular,LLE Color,LLE Color,Pale
+223983,Cardiovascular,LLE Color,LLE Color,Pink
+224767,Cardiovascular,RUE Temp,RUE Temp,Cold
+224767,Cardiovascular,RUE Temp,RUE Temp,Cool
+224767,Cardiovascular,RUE Temp,RUE Temp,Hot
+224767,Cardiovascular,RUE Temp,RUE Temp,Warm
+224769,Cardiovascular,LUE Temp,LUE Temp,Cold
+224769,Cardiovascular,LUE Temp,LUE Temp,Cool
+224769,Cardiovascular,LUE Temp,LUE Temp,Hot
+224769,Cardiovascular,LUE Temp,LUE Temp,Warm
+224771,Cardiovascular,RLE Temp,RLE Temp,Cold
+224771,Cardiovascular,RLE Temp,RLE Temp,Cool
+224771,Cardiovascular,RLE Temp,RLE Temp,Hot
+224771,Cardiovascular,RLE Temp,RLE Temp,Warm
+224773,Cardiovascular,LLE Temp,LLE Temp,Cold
+224773,Cardiovascular,LLE Temp,LLE Temp,Cool
+224773,Cardiovascular,LLE Temp,LLE Temp,Hot
+224773,Cardiovascular,LLE Temp,LLE Temp,Warm

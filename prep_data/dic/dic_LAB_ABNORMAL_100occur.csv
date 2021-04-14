@@ -1,0 +1,197 @@
+ITEMID,ITEM_LABEL,COUNT OCCURRENCES,UNIQUE_HADM_ID
+51221,[LAB_ABNM/Hematology/Blood] Hematocrit,783689,51779
+51279,[LAB_ABNM/Hematology/Blood] Red Blood Cells,673592,50487
+51222,[LAB_ABNM/Hematology/Blood] Hemoglobin,667697,52821
+50931,[LAB_ABNM/Chemistry/Blood] Glucose,508914,48493
+51006,[LAB_ABNM/Chemistry/Blood] Urea Nitrogen,442789,36818
+51277,[LAB_ABNM/Hematology/Blood] RDW,346186,28286
+51274,[LAB_ABNM/Hematology/Blood] PT,337209,37308
+50821,[LAB_ABNM/Blood Gas/Blood] pO2,325988,30716
+50912,[LAB_ABNM/Chemistry/Blood] Creatinine,321092,25553
+51301,[LAB_ABNM/Hematology/Blood] White Blood Cells,320247,41550
+51265,[LAB_ABNM/Hematology/Blood] Platelet Count,287204,29370
+50893,"[LAB_ABNM/Chemistry/Blood] Calcium, Total",268662,36137
+51275,[LAB_ABNM/Hematology/Blood] PTT,235026,28550
+51237,[LAB_ABNM/Hematology/Blood] INR(PT),222487,25133
+50970,[LAB_ABNM/Chemistry/Blood] Phosphate,219002,36863
+50902,[LAB_ABNM/Chemistry/Blood] Chloride,217537,34954
+50882,[LAB_ABNM/Chemistry/Blood] Bicarbonate,214703,33037
+51248,[LAB_ABNM/Hematology/Blood] MCH,208490,28775
+50818,[LAB_ABNM/Blood Gas/Blood] pCO2,200752,26532
+50820,[LAB_ABNM/Blood Gas/Blood] pH,197677,26764
+51249,[LAB_ABNM/Hematology/Blood] MCHC,157729,29647
+50809,[LAB_ABNM/Blood Gas/Blood] Glucose,154439,24478
+50983,[LAB_ABNM/Chemistry/Blood] Sodium,130416,21868
+50804,[LAB_ABNM/Blood Gas/Blood] Calculated Total CO2,129656,18197
+51250,[LAB_ABNM/Hematology/Blood] MCV,129401,18994
+51256,[LAB_ABNM/Hematology/Blood] Neutrophils,124801,37926
+51244,[LAB_ABNM/Hematology/Blood] Lymphocytes,115710,35215
+50808,[LAB_ABNM/Blood Gas/Blood] Free Calcium,111158,22593
+50878,[LAB_ABNM/Chemistry/Blood] Asparate Aminotransferase (AST),99614,16360
+50971,[LAB_ABNM/Chemistry/Blood] Potassium,95976,25830
+50863,[LAB_ABNM/Chemistry/Blood] Alkaline Phosphatase,94076,13504
+50862,[LAB_ABNM/Chemistry/Blood] Albumin,91552,21664
+50861,[LAB_ABNM/Chemistry/Blood] Alanine Aminotransferase (ALT),89439,12777
+50811,[LAB_ABNM/Blood Gas/Blood] Hemoglobin,80401,21414
+50885,"[LAB_ABNM/Chemistry/Blood] Bilirubin, Total",78440,11367
+50813,[LAB_ABNM/Blood Gas/Blood] Lactate,77982,19997
+50960,[LAB_ABNM/Chemistry/Blood] Magnesium,67117,20197
+50910,[LAB_ABNM/Chemistry/Blood] Creatine Kinase (CK),62225,16973
+51003,[LAB_ABNM/Chemistry/Blood] Troponin T,59242,14643
+50954,[LAB_ABNM/Chemistry/Blood] Lactate Dehydrogenase (LD),58100,13603
+50868,[LAB_ABNM/Chemistry/Blood] Anion Gap,48993,14443
+51493,[LAB_ABNM/Hematology/Urine] RBC,38514,18316
+51009,[LAB_ABNM/Chemistry/Blood] Vancomycin,38333,9490
+50822,"[LAB_ABNM/Blood Gas/Blood] Potassium, Whole Blood",35541,14555
+51516,[LAB_ABNM/Hematology/Urine] WBC,23470,11403
+51254,[LAB_ABNM/Hematology/Blood] Monocytes,22654,8920
+50956,[LAB_ABNM/Chemistry/Blood] Lipase,21982,5820
+51200,[LAB_ABNM/Hematology/Blood] Eosinophils,21944,6553
+50911,"[LAB_ABNM/Chemistry/Blood] Creatine Kinase, MB Isoenzyme",21896,6746
+51214,"[LAB_ABNM/Hematology/Blood] Fibrinogen, Functional",20262,8174
+50883,"[LAB_ABNM/Chemistry/Blood] Bilirubin, Direct",19442,6321
+50824,"[LAB_ABNM/Blood Gas/Blood] Sodium, Whole Blood",18770,8448
+51251,[LAB_ABNM/Hematology/Blood] Metamyelocytes,17279,6547
+50867,[LAB_ABNM/Chemistry/Blood] Amylase,17271,4834
+51143,[LAB_ABNM/Hematology/Blood] Atypical Lymphocytes,15623,6458
+51218,[LAB_ABNM/Hematology/Blood] Granulocyte Count,15344,1061
+51257,[LAB_ABNM/Hematology/Blood] Nucleated Red Cells,14006,6941
+50967,[LAB_ABNM/Chemistry/Blood] Phenytoin,12688,3242
+50806,"[LAB_ABNM/Blood Gas/Blood] Chloride, Whole Blood",12627,7305
+51144,[LAB_ABNM/Hematology/Blood] Bands,12051,5695
+51255,[LAB_ABNM/Hematology/Blood] Myelocytes,11532,4375
+51482,[LAB_ABNM/Hematology/Urine] Hyaline Casts,11154,6889
+50998,[LAB_ABNM/Chemistry/Blood] Transferrin,11050,6554
+50953,"[LAB_ABNM/Chemistry/Blood] Iron Binding Capacity, Total",10851,6425
+50852,[LAB_ABNM/Chemistry/Blood] % Hemoglobin A1c,10557,3632
+50908,[LAB_ABNM/Chemistry/Blood] CK-MB Index,10511,3767
+50924,[LAB_ABNM/Chemistry/Blood] Ferritin,9227,5018
+51007,[LAB_ABNM/Chemistry/Blood] Uric Acid,9172,1873
+51000,[LAB_ABNM/Chemistry/Blood] Triglycerides,8908,3210
+51514,[LAB_ABNM/Hematology/Urine] Urobilinogen,8790,5323
+50952,[LAB_ABNM/Chemistry/Blood] Iron,8751,5214
+50909,[LAB_ABNM/Chemistry/Blood] Cortisol,8559,4250
+50993,[LAB_ABNM/Chemistry/Blood] Thyroid Stimulating Hormone,7538,3360
+50964,"[LAB_ABNM/Chemistry/Blood] Osmolality, Measured",6829,2489
+50935,[LAB_ABNM/Chemistry/Blood] Haptoglobin,6181,3406
+51288,[LAB_ABNM/Hematology/Blood] Sedimentation Rate,6156,2231
+50963,[LAB_ABNM/Chemistry/Blood] NTproBNP,6048,3772
+51099,[LAB_ABNM/Chemistry/Urine] Protein/Creatinine Ratio,5540,1895
+50929,[LAB_ABNM/Chemistry/Blood] Gentamicin,5252,1586
+50889,[LAB_ABNM/Chemistry/Blood] C-Reactive Protein,4962,2294
+50976,"[LAB_ABNM/Chemistry/Blood] Protein, Total",4960,2529
+51002,[LAB_ABNM/Chemistry/Blood] Troponin I,4578,1388
+50907,"[LAB_ABNM/Chemistry/Blood] Cholesterol, Total",4480,1093
+50917,[LAB_ABNM/Chemistry/Blood] Digoxin,4210,1783
+51283,"[LAB_ABNM/Hematology/Blood] Reticulocyte Count, Automated",4127,2478
+50986,[LAB_ABNM/Chemistry/Blood] tacroFK,3938,696
+51479,[LAB_ABNM/Hematology/Urine] Granular Casts,3812,2744
+50914,[LAB_ABNM/Chemistry/Blood] Cyclosporin,3710,308
+51010,[LAB_ABNM/Chemistry/Blood] Vitamin B12,3541,2155
+51362,"[LAB_ABNM/Hematology/Cerebrospinal Fluid (CSF)] RBC, CSF",3372,1822
+51148,[LAB_ABNM/Hematology/Blood] Blasts,3028,258
+50965,[LAB_ABNM/Chemistry/Blood] Parathyroid Hormone,2994,1013
+50803,"[LAB_ABNM/Blood Gas/Blood] Calculated Bicarbonate, Whole Blood",2981,2342
+51128,"[LAB_ABNM/Hematology/Ascites] WBC, Ascites",2946,1144
+51127,"[LAB_ABNM/Hematology/Ascites] RBC, Ascites",2862,1104
+51498,[LAB_ABNM/Hematology/Urine] Specific Gravity,2796,2146
+51116,[LAB_ABNM/Hematology/Ascites] Lymphocytes,2789,1077
+51125,[LAB_ABNM/Hematology/Ascites] Polys,2740,1080
+51196,[LAB_ABNM/Hematology/Blood] D-Dimer,2677,1508
+50922,[LAB_ABNM/Chemistry/Blood] Ethanol,2624,1670
+51018,"[LAB_ABNM/Chemistry/Cerebrospinal Fluid (CSF)] Total Protein, CSF",2574,1643
+50905,"[LAB_ABNM/Chemistry/Blood] Cholesterol, LDL, Calculated",2232,726
+51269,[LAB_ABNM/Hematology/Blood] Promyelocytes,2204,908
+51458,"[LAB_ABNM/Hematology/Pleural] WBC, Pleural",2194,1384
+50995,"[LAB_ABNM/Chemistry/Blood] Thyroxine (T4), Free",2174,947
+51446,[LAB_ABNM/Hematology/Pleural] Lymphocytes,2091,1313
+51455,[LAB_ABNM/Hematology/Pleural] Polys,2081,1327
+51117,[LAB_ABNM/Hematology/Ascites] Macrophage,2032,833
+50927,[LAB_ABNM/Chemistry/Blood] Gamma Glutamyltransferase,2028,943
+51457,"[LAB_ABNM/Hematology/Pleural] RBC, Pleural",2012,1278
+51120,[LAB_ABNM/Hematology/Ascites] Monocytes,1987,880
+51213,[LAB_ABNM/Hematology/Blood] Fibrin Degradation Products,1951,956
+50866,[LAB_ABNM/Chemistry/Blood] Ammonia,1916,946
+51284,"[LAB_ABNM/Hematology/Blood] Reticulocyte Count, Manual",1892,1062
+51118,[LAB_ABNM/Hematology/Ascites] Mesothelial Cell,1820,767
+50950,[LAB_ABNM/Chemistry/Blood] Immunoglobulin G,1812,698
+51436,[LAB_ABNM/Hematology/Other Body Fluid] Polys,1629,1243
+51181,[LAB_ABNM/Hematology/Blood] CD4/CD8 Ratio,1628,290
+51008,[LAB_ABNM/Chemistry/Blood] Valproic Acid,1564,471
+50900,[LAB_ABNM/Chemistry/Blood] Carcinoembyronic Antigen (CEA),1545,317
+51427,[LAB_ABNM/Hematology/Other Body Fluid] Lymphocytes,1515,1144
+51450,[LAB_ABNM/Hematology/Pleural] Monos,1501,990
+51131,[LAB_ABNM/Hematology/Blood] Absolute CD4 Count,1487,325
+51491,[LAB_ABNM/Hematology/Urine] pH,1482,951
+51146,[LAB_ABNM/Hematology/Blood] Basophils,1433,491
+51001,[LAB_ABNM/Chemistry/Blood] Triiodothyronine (T3),1346,836
+51259,[LAB_ABNM/Hematology/Blood] Other Cells,1298,457
+51447,[LAB_ABNM/Hematology/Pleural] Macrophages,1291,877
+51070,"[LAB_ABNM/Chemistry/Urine] Albumin/Creatinine, Urine",1290,341
+51132,[LAB_ABNM/Hematology/Blood] Absolute CD8 Count,1263,200
+51448,[LAB_ABNM/Hematology/Pleural] Mesothelial Cells,1250,872
+50978,[LAB_ABNM/Chemistry/Blood] Rapamycin,1198,111
+51431,[LAB_ABNM/Hematology/Other Body Fluid] Monos,1159,889
+50949,[LAB_ABNM/Chemistry/Blood] Immunoglobulin A,1155,380
+50951,[LAB_ABNM/Chemistry/Blood] Immunoglobulin M,1153,375
+50997,[LAB_ABNM/Chemistry/Blood] Tobramycin,1090,285
+50930,[LAB_ABNM/Chemistry/Blood] Globulin,1027,331
+51428,[LAB_ABNM/Hematology/Other Body Fluid] Macrophage,967,786
+51130,[LAB_ABNM/Hematology/Blood] Absolute CD3 Count,967,191
+51245,"[LAB_ABNM/Hematology/Blood] Lymphocytes, Percent",966,270
+50915,[LAB_ABNM/Chemistry/Blood] D-Dimer,925,587
+51300,[LAB_ABNM/Hematology/Blood] WBC Count,826,211
+50974,[LAB_ABNM/Chemistry/Blood] Prostate Specific Antigen,811,137
+50994,[LAB_ABNM/Chemistry/Blood] Thyroxine (T4),766,470
+51439,"[LAB_ABNM/Hematology/Other Body Fluid] WBC, Other Fluid",756,561
+50966,[LAB_ABNM/Chemistry/Blood] Phenobarbital,688,135
+51444,[LAB_ABNM/Hematology/Pleural] Eosinophils,640,421
+50864,[LAB_ABNM/Chemistry/Blood] Alpha-Fetoprotein,602,149
+51438,"[LAB_ABNM/Hematology/Other Body Fluid] RBC, Other Fluid",580,407
+50969,"[LAB_ABNM/Chemistry/Blood] Phenytoin, Percent Free",550,235
+51384,"[LAB_ABNM/Hematology/Joint Fluid] WBC, Joint Fluid",546,255
+51419,[LAB_ABNM/Hematology/Other Body Fluid] Eosinophils,524,420
+51383,"[LAB_ABNM/Hematology/Joint Fluid] RBC, Joint Fluid",524,251
+51382,[LAB_ABNM/Hematology/Joint Fluid] Polys,522,253
+50892,[LAB_ABNM/Chemistry/Blood] CA-125,514,124
+51453,[LAB_ABNM/Hematology/Pleural] Other,500,362
+50890,[LAB_ABNM/Chemistry/Blood] C3,499,288
+51114,[LAB_ABNM/Hematology/Ascites] Eosinophils,473,269
+51434,[LAB_ABNM/Hematology/Other Body Fluid] Other Cell,465,395
+50906,"[LAB_ABNM/Chemistry/Blood] Cholesterol, LDL, Measured",411,83
+51297,[LAB_ABNM/Hematology/Blood] Thrombin,409,292
+50968,"[LAB_ABNM/Chemistry/Blood] Phenytoin, Free",403,210
+50856,[LAB_ABNM/Chemistry/Blood] Acetaminophen,393,229
+51429,[LAB_ABNM/Hematology/Other Body Fluid] Mesothelial cells,388,304
+51123,[LAB_ABNM/Hematology/Ascites] Other,365,220
+50891,[LAB_ABNM/Chemistry/Blood] C4,338,189
+50898,[LAB_ABNM/Chemistry/Blood] Cancer Antigen 27.29,334,31
+50899,[LAB_ABNM/Chemistry/Blood] Carbamazepine,324,112
+51263,[LAB_ABNM/Hematology/Blood] Plasma Cells,317,198
+50957,[LAB_ABNM/Chemistry/Blood] Lithium,285,101
+50945,[LAB_ABNM/Chemistry/Blood] Homocysteine,285,79
+50988,[LAB_ABNM/Chemistry/Blood] Testosterone,277,34
+51206,[LAB_ABNM/Hematology/Blood] Factor VIII,267,122
+50881,[LAB_ABNM/Chemistry/Blood] Beta-2 Microglobulin,252,87
+51529,[LAB_ABNM/CHEMISTRY/BLOOD] Estimated Actual Glucose,241,8
+51232,[LAB_ABNM/Hematology/Blood] Hypersegmented Neutrophils,235,151
+51422,"[LAB_ABNM/Hematology/Other Body Fluid] Hematocrit, Other Fluid",227,207
+51445,"[LAB_ABNM/Hematology/Pleural] Hematocrit, Pleural",221,166
+50980,[LAB_ABNM/Chemistry/Blood] Rheumatoid Factor,207,127
+50990,[LAB_ABNM/Chemistry/Blood] Theophylline,192,100
+50896,[LAB_ABNM/Chemistry/Blood] Calculated Thyroxine (T4) Index,186,93
+50973,[LAB_ABNM/Chemistry/Blood] Prolactin,182,78
+50981,[LAB_ABNM/Chemistry/Blood] Salicylate,175,62
+50926,[LAB_ABNM/Chemistry/Blood] Follicle Stimulating Hormone,169,46
+51507,"[LAB_ABNM/Hematology/Urine] Urine Casts, Other",159,104
+50989,"[LAB_ABNM/Chemistry/Blood] Testosterone, Free",159,8
+51271,"[LAB_ABNM/Hematology/Blood] Protein C, Functional",141,98
+51080,[LAB_ABNM/Chemistry/Urine] Creatinine Clearance,134,55
+50814,[LAB_ABNM/Blood Gas/Blood] Methemoglobin,127,54
+51110,[LAB_ABNM/Hematology/Ascites] Atypical Lymphocytes,126,91
+50865,[LAB_ABNM/Chemistry/Blood] Amikacin,126,26
+51115,"[LAB_ABNM/Hematology/Ascites] Hematocrit, Ascites",125,105
+51471,[LAB_ABNM/Hematology/Urine] Cellular Cast,115,102
+51302,[LAB_ABNM/Hematology/Blood] Young Cells,111,53
+51440,[LAB_ABNM/Hematology/Pleural] Atypical Lymphocytes,110,88
+50805,[LAB_ABNM/Blood Gas/Blood] Carboxyhemoglobin,108,78

@@ -1,0 +1,88 @@
+ITEMID,LABEL,OCCUR_CNT,ICUSTAY_CNT,avg day,new-label
+222011,Magnesium Sulfate,25897,10963,2.36,[MED/Medications] Magnesium Sulfate
+225975,Heparin Sodium (Prophylaxis),77518,10779,7.19,[MED/Medications] Heparin Sodium
+225166,Potassium Chloride,80724,10580,7.63,[MED/Medications] Potassium Chloride
+223258,Insulin - Regular,119668,9116,13.13,[MED/Medications] Insulin
+225798,Vancomycin,46352,8934,5.19,[MED/Antibiotics] Vancomycin
+227523,Magnesium Sulfate (Bolus),17883,8330,2.15,[MED/Medications] Magnesium Sulfate
+222168,Propofol,178819,7862,22.74,[MED/Medications] Propofol
+221794,Furosemide (Lasix),47444,7422,6.39,[MED/Medications] Furosemide
+225154,Morphine Sulfate,41064,7048,5.83,[MED/Medications] Morphine Sulfate
+221456,Calcium Gluconate,23922,7002,3.42,[MED/Medications] Calcium Gluconate
+225910,Pantoprazole (Protonix),27516,6524,4.22,[MED/Medications] Pantoprazole (Protonix)
+225168,Packed Red Blood Cells,24836,6307,3.94,[MED/Blood Products/Colloids] Packed Red Blood Cells
+227522,KCL (Bolus),37967,6168,6.16,[MED/Medications] KCL
+221744,Fentanyl,86340,6016,14.35,[MED/Medications] Fentanyl
+225974,Metoprolol,31160,4993,6.24,[MED/Medications] Metoprolol
+225907,Famotidine (Pepcid),22316,4952,4.51,[MED/Medications] Famotidine (Pepcid)
+221749,Phenylephrine,93571,4876,19.19,[MED/Medications] Phenylephrine
+221668,Midazolam (Versed),71674,4640,15.45,[MED/Medications] Midazolam (Versed)
+223262,Insulin - Humalog,31680,4615,6.86,[MED/Medications] Insulin
+221833,Hydromorphone (Dilaudid),32461,3829,8.48,[MED/Medications] Hydromorphone (Dilaudid)
+221385,Lorazepam (Ativan),18731,3429,5.46,[MED/Medications] Lorazepam (Ativan)
+223260,Insulin - Glargine,8906,3429,2.60,[MED/Medications] Insulin
+225850,Cefazolin,12751,3321,3.84,[MED/Antibiotics] Cefazolin
+225152,Heparin Sodium,32468,3264,9.95,[MED/Medications] Heparin Sodium
+225893,Piperacillin/Tazobactam (Zosyn),27069,3245,8.34,[MED/Antibiotics] Piperacillin
+221906,Norepinephrine,89697,3227,27.80,[MED/Medications] Norepinephrine
+225884,Metronidazole,22222,2940,7.56,[MED/Antibiotics] Metronidazole
+221828,Hydralazine,12459,2913,4.28,[MED/Medications] Hydralazine
+225834,K Phos,5618,2806,2.00,[MED/Medications] K Phos
+225942,Fentanyl (Concentrate),45866,2750,16.68,[MED/Medications] Fentanyl
+222056,Nitroglycerin,31528,2711,11.63,[MED/Medications] Nitroglycerin
+225851,Cefepime,14856,2698,5.51,[MED/Antibiotics] Cefepime
+225859,Ciprofloxacin,11261,2548,4.42,[MED/Antibiotics] Ciprofloxacin
+220864,Albumin 5%,7466,2423,3.08,[MED/Blood Products/Colloids] Albumin
+225855,Ceftriaxone,4749,1972,2.41,[MED/Antibiotics] Ceftriaxone
+220970,Fresh Frozen Plasma,8428,1968,4.28,[MED/Blood Products/Colloids] Fresh Frozen Plasma
+226372,OR Cell Saver Intake,1895,1823,1.04,[MED/Blood Products/Colloids] OR Cell Saver Intake
+220995,Sodium Bicarbonate 8.4%,6670,1814,3.68,[MED/Medications] Sodium Bicarbonate 8.4%
+225911,Ranitidine (Prophylaxis),3134,1758,1.78,[MED/Medications] Ranitidine (Prophylaxis)
+226368,OR Packed RBC Intake,2002,1726,1.16,[MED/Blood Products/Colloids] OR Packed RBC Intake
+225879,Levofloxacin,3279,1520,2.16,[MED/Antibiotics] Levofloxacin
+225892,Piperacillin,5520,1452,3.80,[MED/Antibiotics] Piperacillin
+225883,Meropenem,16892,1439,11.74,[MED/Antibiotics] Meropenem
+220862,Albumin 25%,9851,1393,7.07,[MED/Blood Products/Colloids] Albumin
+221347,Amiodarone,8367,1385,6.04,[MED/Medications] Amiodarone
+225170,Platelets,4160,1364,3.05,[MED/Blood Products/Colloids] Platelets
+221824,Haloperidol (Haldol),5389,1318,4.09,[MED/Medications] Haloperidol (Haldol)
+225833,Thiamine,2602,1118,2.33,[MED/Medications] Thiamine
+228315,Acetaminophen-IV,4523,1103,4.10,[MED/Medications] Acetaminophen-IV
+221468,Diltiazem,8765,1085,8.08,[MED/Medications] Diltiazem
+225153,Labetalol,9206,1076,8.56,[MED/Medications] Labetalol
+222315,Vasopressin,5648,1009,5.60,[MED/Medications] Vasopressin
+225150,Dexmedetomidine (Precedex),15303,1006,15.21,[MED/Medications] Dexmedetomidine (Precedex)
+227689,Dilantin,5233,964,5.43,[MED/Medications] Dilantin
+227694,Omeprazole (Prilosec),1383,962,1.44,[MED/Medications] Omeprazole (Prilosec)
+221662,Dopamine,11389,919,12.39,[MED/Medications] Dopamine
+226365,OR Colloid Intake,1002,886,1.13,[MED/Blood Products/Colloids] OR Colloid Intake
+226367,OR FFP Intake,998,883,1.13,[MED/Blood Products/Colloids] OR FFP Intake
+225835,Na Phos,1594,876,1.82,[MED/Medications] Na Phos
+225909,Lansoprazole (Prevacid),1975,820,2.41,[MED/Medications] Lansoprazole (Prevacid)
+225832,Folic Acid,1686,808,2.09,[MED/Medications] Folic Acid
+222042,Nicardipine,13611,757,17.98,[MED/Medications] Nicardipine
+221289,Epinephrine,6413,745,8.61,[MED/Medications] Epinephrine
+225913,Coumadin (Warfarin),997,688,1.45,[MED/Medications] Coumadin (Warfarin)
+226369,OR Platelet Intake,781,684,1.14,[MED/Blood Products/Colloids] OR Platelet Intake
+223259,Insulin - NPH,3504,680,5.15,[MED/Medications] Insulin
+225845,Azithromycin,1475,668,2.21,[MED/Antibiotics] Azithromycin
+225837,Acyclovir,4258,614,6.93,[MED/Antibiotics] Acyclovir
+225843,Ampicillin/Sulbactam (Unasyn),3572,604,5.91,[MED/Antibiotics] Ampicillin
+225869,Fluconazole,2079,567,3.67,[MED/Antibiotics] Fluconazole
+225906,Enoxaparin (Lovenox),1720,563,3.06,[MED/Medications] Enoxaparin (Lovenox)
+225842,Ampicillin,3791,549,6.91,[MED/Antibiotics] Ampicillin
+227525,Calcium Gluconate (CRRT),15636,481,32.51,[MED/Medications] Calcium Gluconate
+227529,ACD-A Citrate (1000ml),17205,408,42.17,[MED/Medications] ACD-A Citrate
+228340,Furosemide (Lasix) 500/100,2392,313,7.64,[MED/Medications] Furosemide
+228339,Amiodarone 600/500,1751,237,7.39,[MED/Medications] Amiodarone
+223257,Insulin - 70/30,452,122,3.70,[MED/Medications] Insulin
+223261,Insulin - Humalog 75/25,167,61,2.74,[MED/Medications] Insulin
+227528,ACD-A Citrate (500ml),316,14,22.57,[MED/Medications] ACD-A Citrate 
+227524,Magnesium Sulfate (OB-GYN),26,11,2.36,[MED/Medications] Magnesium Sulfate
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

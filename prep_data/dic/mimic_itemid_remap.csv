@@ -1,0 +1,34 @@
+ORIGID,NEWID,label,label(orig-nocat),label(orig),abbreviation,dbsource,linksto,category,unitname,param_type,conceptid
+227529,227529,[MED/Medications] ACD-A Citrate,ACD-A Citrate,ACD-A Citrate (1000ml),ACD-A Citrate (1000ml),metavision,inputevents_mv,Medications,mL,Solution,NULL
+227528,227529,[MED/Medications] ACD-A Citrate ,ACD-A Citrate ,ACD-A Citrate (500ml),ACD-A Citrate (500ml),metavision,inputevents_mv,Medications,mL,Solution,NULL
+227529,227529,[MED/Medications] ACD-A Citrate,ACD-A Citrate,ACD-A Citrate (1000ml),ACD-A Citrate (1000ml),metavision,inputevents_mv,Medications,mL,Solution,NULL
+227528,227529,[MED/Medications] ACD-A Citrate ,ACD-A Citrate ,ACD-A Citrate (500ml),ACD-A Citrate (500ml),metavision,inputevents_mv,Medications,mL,Solution,NULL
+221347,221347,[MED/Medications] Amiodarone,Amiodarone,Amiodarone,Amiodarone,metavision,inputevents_mv,Medications,mg,Solution,NULL
+228339,221347,[MED/Medications] Amiodarone,Amiodarone,Amiodarone 600/500,Amiodarone 600/500,metavision,inputevents_mv,Medications,mg,Solution,NULL
+225842,225842,[MED/Antibiotics] Ampicillin,Ampicillin,Ampicillin,Ampicillin,metavision,inputevents_mv,Antibiotics,dose,Solution,NULL
+225843,225842,[MED/Antibiotics] Ampicillin,Ampicillin,Ampicillin/Sulbactam (Unasyn),Ampicillin/Sulbactam (Unasyn),metavision,inputevents_mv,Antibiotics,dose,Solution,NULL
+221456,221456,[MED/Medications] Calcium Gluconate,Calcium Gluconate,Calcium Gluconate,Calcium Gluconate,metavision,inputevents_mv,Medications,grams,Solution,NULL
+228317,221456,[MED/Medications] Calcium Gluconate,Calcium Gluconate,Calcium Gluconate (Bolus),Calcium Gluconate (Bolus),metavision,inputevents_mv,Medications,mL,Solution,NULL
+227525,221456,[MED/Medications] Calcium Gluconate,Calcium Gluconate,Calcium Gluconate (CRRT),Calcium Gluconate (CRRT),metavision,inputevents_mv,Medications,grams,Solution,NULL
+225795,225795,[MED/Blood Products/Colloids] Dextran,Dextran,Dextran 40,Dextran 40,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,NULL
+225796,225795,[MED/Blood Products/Colloids] Dextran,Dextran,Dextran 70,Dextran 70,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,NULL
+221744,221744,[MED/Medications] Fentanyl,Fentanyl,Fentanyl,Fentanyl,metavision,inputevents_mv,Medications,mg,Solution,NULL
+225942,221744,[MED/Medications] Fentanyl,Fentanyl,Fentanyl (Concentrate),Fentanyl (Concentrate),metavision,inputevents_mv,Medications,mg,Solution,NULL
+225972,221744,[MED/Medications] Fentanyl,Fentanyl,Fentanyl (Push),Fentanyl (Push),metavision,inputevents_mv,Medications,mcg,Solution,NULL
+221794,221794,[MED/Medications] Furosemide,Furosemide,Furosemide (Lasix),Furosemide (Lasix),metavision,inputevents_mv,Medications,mg,Solution,NULL
+228340,221794,[MED/Medications] Furosemide,Furosemide,Furosemide (Lasix) 500/100,Furosemide (Lasix) 500/100,metavision,inputevents_mv,Medications,mg,Solution,NULL
+225152,225152,[MED/Medications] Heparin Sodium,Heparin Sodium,Heparin Sodium,Heparin Sodium,metavision,inputevents_mv,Medications,units,Solution,NULL
+225975,225152,[MED/Medications] Heparin Sodium,Heparin Sodium,Heparin Sodium (Prophylaxis),Heparin Sodium (Prophylaxis),metavision,inputevents_mv,Medications,dose,Solution,NULL
+223257,223257,[MED/Medications] Insulin,Insulin,Insulin - 70/30,Insulin - 70/30,metavision,inputevents_mv,Medications,units,Solution,NULL
+223260,223257,[MED/Medications] Insulin,Insulin,Insulin - Glargine,Insulin - Glargine,metavision,inputevents_mv,Medications,units,Solution,NULL
+223262,223257,[MED/Medications] Insulin,Insulin,Insulin - Humalog,Insulin - Humalog,metavision,inputevents_mv,Medications,units,Solution,NULL
+223261,223257,[MED/Medications] Insulin,Insulin,Insulin - Humalog 75/25,Insulin - Humalog 75/25,metavision,inputevents_mv,Medications,units,Solution,NULL
+223259,223257,[MED/Medications] Insulin,Insulin,Insulin - NPH,Insulin - NPH,metavision,inputevents_mv,Medications,units,Solution,NULL
+223258,223257,[MED/Medications] Insulin,Insulin,Insulin - Regular,Insulin - Regular,metavision,inputevents_mv,Medications,units,Solution,NULL
+227522,227522,[MED/Medications] KCL,KCL,KCL (Bolus),KCL (Bolus),metavision,inputevents_mv,Medications,mL,Solution,NULL
+227536,227522,[MED/Medications] KCL,KCL,KCl (CRRT),KCl (CRRT),metavision,inputevents_mv,Medications,mEq.,Solution,NULL
+222011,222011,[MED/Medications] Magnesium Sulfate,Magnesium Sulfate,Magnesium Sulfate,Magnesium Sulfate,metavision,inputevents_mv,Medications,grams,Solution,NULL
+227523,222011,[MED/Medications] Magnesium Sulfate,Magnesium Sulfate,Magnesium Sulfate (Bolus),Magnesium Sulfate (Bolus),metavision,inputevents_mv,Medications,mL,Solution,NULL
+227524,222011,[MED/Medications] Magnesium Sulfate,Magnesium Sulfate,Magnesium Sulfate (OB-GYN),Magnesium Sulfate (OB-GYN),metavision,inputevents_mv,Medications,grams,Solution,NULL
+225892,225892,[MED/Antibiotics] Piperacillin,Piperacillin,Piperacillin,Piperacillin,metavision,inputevents_mv,Antibiotics,dose,Solution,NULL
+225893,225892,[MED/Antibiotics] Piperacillin,Piperacillin,Piperacillin/Tazobactam (Zosyn),Piperacillin/Tazobactam (Zosyn),metavision,inputevents_mv,Antibiotics,dose,Solution,NULL

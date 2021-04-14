@@ -1,0 +1,156 @@
+ITEMID,CATEGORY,FLUID,LABEL,OCCUR_CNT,ICUSTAY_CNT,PER ICUSTAY,ITEM_LABEL
+50902,Chemistry,Blood,Chloride,141398,22970,6.16,[LAB/Chemistry/Blood] Chloride
+50983,Chemistry,Blood,Sodium,142972,22969,6.22,[LAB/Chemistry/Blood] Sodium
+50971,Chemistry,Blood,Potassium,145276,22967,6.33,[LAB/Chemistry/Blood] Potassium
+50912,Chemistry,Blood,Creatinine,133394,22959,5.81,[LAB/Chemistry/Blood] Creatinine
+50882,Chemistry,Blood,Bicarbonate,133131,22959,5.8,[LAB/Chemistry/Blood] Bicarbonate
+51006,Chemistry,Blood,Urea Nitrogen,132910,22956,5.79,[LAB/Chemistry/Blood] Urea Nitrogen
+51221,Hematology,Blood,Hematocrit,143152,22939,6.24,[LAB/Hematology/Blood] Hematocrit
+50868,Chemistry,Blood,Anion Gap,131551,22930,5.74,[LAB/Chemistry/Blood] Anion Gap
+50931,Chemistry,Blood,Glucose,130340,22908,5.69,[LAB/Chemistry/Blood] Glucose
+51265,Hematology,Blood,Platelet Count,118641,22887,5.18,[LAB/Hematology/Blood] Platelet Count
+51301,Hematology,Blood,White Blood Cells,115212,22884,5.03,[LAB/Hematology/Blood] White Blood Cells
+51222,Hematology,Blood,Hemoglobin,116131,22879,5.08,[LAB/Hematology/Blood] Hemoglobin
+51249,Hematology,Blood,MCHC,114937,22878,5.02,[LAB/Hematology/Blood] MCHC
+51279,Hematology,Blood,Red Blood Cells,114900,22878,5.02,[LAB/Hematology/Blood] Red Blood Cells
+51248,Hematology,Blood,MCH,114899,22878,5.02,[LAB/Hematology/Blood] MCH
+51250,Hematology,Blood,MCV,114899,22878,5.02,[LAB/Hematology/Blood] MCV
+51277,Hematology,Blood,RDW,114896,22877,5.02,[LAB/Hematology/Blood] RDW
+50960,Chemistry,Blood,Magnesium,129030,22406,5.76,[LAB/Chemistry/Blood] Magnesium
+50893,Chemistry,Blood,"Calcium, Total",117873,21638,5.45,"[LAB/Chemistry/Blood] Calcium, Total"
+50970,Chemistry,Blood,Phosphate,118355,21609,5.48,[LAB/Chemistry/Blood] Phosphate
+51274,Hematology,Blood,PT,79148,19402,4.08,[LAB/Hematology/Blood] PT
+51237,Hematology,Blood,INR(PT),79142,19402,4.08,[LAB/Hematology/Blood] INR(PT)
+51275,Hematology,Blood,PTT,84994,19239,4.42,[LAB/Hematology/Blood] PTT
+50820,Blood Gas,Blood,pH,134832,13396,10.07,[LAB/Blood Gas/Blood] pH
+50802,Blood Gas,Blood,Base Excess,125170,12714,9.85,[LAB/Blood Gas/Blood] Base Excess
+50821,Blood Gas,Blood,pO2,125180,12713,9.85,[LAB/Blood Gas/Blood] pO2
+50804,Blood Gas,Blood,Calculated Total CO2,125167,12713,9.85,[LAB/Blood Gas/Blood] Calculated Total CO2
+50818,Blood Gas,Blood,pCO2,125154,12712,9.85,[LAB/Blood Gas/Blood] pCO2
+50813,Blood Gas,Blood,Lactate,60144,12419,4.84,[LAB/Blood Gas/Blood] Lactate
+50885,Chemistry,Blood,"Bilirubin, Total",32931,10604,3.11,"[LAB/Chemistry/Blood] Bilirubin, Total"
+50861,Chemistry,Blood,Alanine Aminotransferase (ALT),32570,10598,3.07,[LAB/Chemistry/Blood] Alanine Aminotransferase (ALT)
+50878,Chemistry,Blood,Asparate Aminotransferase (AST),32551,10590,3.07,[LAB/Chemistry/Blood] Asparate Aminotransferase (AST)
+50863,Chemistry,Blood,Alkaline Phosphatase,31914,10439,3.06,[LAB/Chemistry/Blood] Alkaline Phosphatase
+50808,Blood Gas,Blood,Free Calcium,66839,9737,6.86,[LAB/Blood Gas/Blood] Free Calcium
+50910,Chemistry,Blood,Creatine Kinase (CK),22333,9086,2.46,[LAB/Chemistry/Blood] Creatine Kinase (CK)
+51146,Hematology,Blood,Basophils,17167,8913,1.93,[LAB/Hematology/Blood] Basophils
+51200,Hematology,Blood,Eosinophils,17167,8913,1.93,[LAB/Hematology/Blood] Eosinophils
+51244,Hematology,Blood,Lymphocytes,17167,8913,1.93,[LAB/Hematology/Blood] Lymphocytes
+51254,Hematology,Blood,Monocytes,17167,8913,1.93,[LAB/Hematology/Blood] Monocytes
+51256,Hematology,Blood,Neutrophils,17167,8913,1.93,[LAB/Hematology/Blood] Neutrophils
+51491,Hematology,Urine,pH,14604,8813,1.66,[LAB/Hematology/Urine] pH
+51498,Hematology,Urine,Specific Gravity,14512,8761,1.66,[LAB/Hematology/Urine] Specific Gravity
+50862,Chemistry,Blood,Albumin,19045,8630,2.21,[LAB/Chemistry/Blood] Albumin
+50911,Chemistry,Blood,"Creatine Kinase, MB Isoenzyme",19458,8241,2.36,"[LAB/Chemistry/Blood] Creatine Kinase, MB Isoenzyme"
+50954,Chemistry,Blood,Lactate Dehydrogenase (LD),20004,8048,2.49,[LAB/Chemistry/Blood] Lactate Dehydrogenase (LD)
+50817,Blood Gas,Blood,Oxygen Saturation,42589,7403,5.75,[LAB/Blood Gas/Blood] Oxygen Saturation
+51519,Hematology,Urine,Yeast,11560,7354,1.57,[LAB/Hematology/Urine] Yeast
+50822,Blood Gas,Blood,"Potassium, Whole Blood",38750,7126,5.44,"[LAB/Blood Gas/Blood] Potassium, Whole Blood"
+51516,Hematology,Urine,WBC,11063,7074,1.56,[LAB/Hematology/Urine] WBC
+51492,Hematology,Urine,Protein,11321,6985,1.62,[LAB/Hematology/Urine] Protein
+51493,Hematology,Urine,RBC,10826,6966,1.55,[LAB/Hematology/Urine] RBC
+50809,Blood Gas,Blood,Glucose,42239,6881,6.14,[LAB/Blood Gas/Blood] Glucose
+51476,Hematology,Urine,Epithelial Cells,10453,6781,1.54,[LAB/Hematology/Urine] Epithelial Cells
+51003,Chemistry,Blood,Troponin T,16025,6669,2.4,[LAB/Chemistry/Blood] Troponin T
+50825,Blood Gas,Blood,Temperature,34676,6390,5.43,[LAB/Blood Gas/Blood] Temperature
+51484,Hematology,Urine,Ketone,9145,5856,1.56,[LAB/Hematology/Urine] Ketone
+51514,Hematology,Urine,Urobilinogen,9064,5725,1.58,[LAB/Hematology/Urine] Urobilinogen
+51478,Hematology,Urine,Glucose,8838,5577,1.58,[LAB/Hematology/Urine] Glucose
+50824,Blood Gas,Blood,"Sodium, Whole Blood",13399,5449,2.46,"[LAB/Blood Gas/Blood] Sodium, Whole Blood"
+51508,Hematology,Urine,Urine Color,8603,5428,1.58,[LAB/Hematology/Urine] Urine Color
+51506,Hematology,Urine,Urine Appearance,8326,5216,1.6,[LAB/Hematology/Urine] Urine Appearance
+51466,Hematology,Urine,Blood,8286,5183,1.6,[LAB/Hematology/Urine] Blood
+51486,Hematology,Urine,Leukocytes,8285,5182,1.6,[LAB/Hematology/Urine] Leukocytes
+51464,Hematology,Urine,Bilirubin,8284,5182,1.6,[LAB/Hematology/Urine] Bilirubin
+51487,Hematology,Urine,Nitrite,8281,5179,1.6,[LAB/Hematology/Urine] Nitrite
+50816,Blood Gas,Blood,Oxygen,25147,5140,4.89,[LAB/Blood Gas/Blood] Oxygen
+50810,Blood Gas,Blood,"Hematocrit, Calculated",13662,4936,2.77,"[LAB/Blood Gas/Blood] Hematocrit, Calculated"
+50811,Blood Gas,Blood,Hemoglobin,13662,4936,2.77,[LAB/Blood Gas/Blood] Hemoglobin
+51214,Hematology,Blood,"Fibrinogen, Functional",12165,4822,2.52,"[LAB/Hematology/Blood] Fibrinogen, Functional"
+50806,Blood Gas,Blood,"Chloride, Whole Blood",9577,4744,2.02,"[LAB/Blood Gas/Blood] Chloride, Whole Blood"
+51082,Chemistry,Urine,"Creatinine, Urine",6290,4433,1.42,"[LAB/Chemistry/Urine] Creatinine, Urine"
+50800,BLOOD GAS,BLOOD,SPECIMEN TYPE,47367,4430,10.69,[LAB/BLOOD GAS/BLOOD] SPECIMEN TYPE
+51100,Chemistry,Urine,"Sodium, Urine",5981,4210,1.42,"[LAB/Chemistry/Urine] Sodium, Urine"
+50819,Blood Gas,Blood,PEEP,21924,4199,5.22,[LAB/Blood Gas/Blood] PEEP
+51463,Hematology,Urine,Bacteria,6408,4168,1.54,[LAB/Hematology/Urine] Bacteria
+51009,Chemistry,Blood,Vancomycin,11751,4078,2.88,[LAB/Chemistry/Blood] Vancomycin
+50826,Blood Gas,Blood,Tidal Volume,17823,3849,4.63,[LAB/Blood Gas/Blood] Tidal Volume
+50956,Chemistry,Blood,Lipase,7474,3595,2.08,[LAB/Chemistry/Blood] Lipase
+51144,Hematology,Blood,Bands,7016,3467,2.02,[LAB/Hematology/Blood] Bands
+51093,Chemistry,Urine,"Osmolality, Urine",4597,3234,1.42,"[LAB/Chemistry/Urine] Osmolality, Urine"
+51255,Hematology,Blood,Myelocytes,6405,3129,2.05,[LAB/Hematology/Blood] Myelocytes
+51251,Hematology,Blood,Metamyelocytes,6405,3128,2.05,[LAB/Hematology/Blood] Metamyelocytes
+51143,Hematology,Blood,Atypical Lymphocytes,6402,3128,2.05,[LAB/Hematology/Blood] Atypical Lymphocytes
+50867,Chemistry,Blood,Amylase,6482,3004,2.16,[LAB/Chemistry/Blood] Amylase
+51104,Chemistry,Urine,"Urea Nitrogen, Urine",3794,2957,1.28,"[LAB/Chemistry/Urine] Urea Nitrogen, Urine"
+50812,Blood Gas,Blood,Intubated,14671,2954,4.97,[LAB/Blood Gas/Blood] Intubated
+51097,Chemistry,Urine,"Potassium, Urine",4133,2931,1.41,"[LAB/Chemistry/Urine] Potassium, Urine"
+51482,Hematology,Urine,Hyaline Casts,3645,2891,1.26,[LAB/Hematology/Urine] Hyaline Casts
+51078,Chemistry,Urine,"Chloride, Urine",3913,2821,1.39,"[LAB/Chemistry/Urine] Chloride, Urine"
+50993,Chemistry,Blood,Thyroid Stimulating Hormone,2788,2577,1.08,[LAB/Chemistry/Blood] Thyroid Stimulating Hormone
+51087,Chemistry,Urine,Length of Urine Collection,3370,2172,1.55,[LAB/Chemistry/Urine] Length of Urine Collection
+50920,Chemistry,Blood,Estimated GFR (MDRD equation),2881,2151,1.34,[LAB/Chemistry/Blood] Estimated GFR (MDRD equation)
+50908,Chemistry,Blood,CK-MB Index,5367,2122,2.53,[LAB/Chemistry/Blood] CK-MB Index
+51000,Chemistry,Blood,Triglycerides,2639,2111,1.25,[LAB/Chemistry/Blood] Triglycerides
+50952,Chemistry,Blood,Iron,2069,1856,1.11,[LAB/Chemistry/Blood] Iron
+50924,Chemistry,Blood,Ferritin,2013,1798,1.12,[LAB/Chemistry/Blood] Ferritin
+50801,Blood Gas,Blood,Alveolar-arterial Gradient,3902,1794,2.18,[LAB/Blood Gas/Blood] Alveolar-arterial Gradient
+50823,Blood Gas,Blood,Required O2,3905,1792,2.18,[LAB/Blood Gas/Blood] Required O2
+50953,Chemistry,Blood,"Iron Binding Capacity, Total",1955,1784,1.1,"[LAB/Chemistry/Blood] Iron Binding Capacity, Total"
+50998,Chemistry,Blood,Transferrin,1955,1784,1.1,[LAB/Chemistry/Blood] Transferrin
+50828,Blood Gas,Blood,Ventilator,4783,1725,2.77,[LAB/Blood Gas/Blood] Ventilator
+50935,Chemistry,Blood,Haptoglobin,2282,1661,1.37,[LAB/Chemistry/Blood] Haptoglobin
+51512,Hematology,Urine,Urine Mucous,2020,1556,1.3,[LAB/Hematology/Urine] Urine Mucous
+50883,Chemistry,Blood,"Bilirubin, Direct",2947,1545,1.91,"[LAB/Chemistry/Blood] Bilirubin, Direct"
+50827,Blood Gas,Blood,Ventilation Rate,7881,1530,5.15,[LAB/Blood Gas/Blood] Ventilation Rate
+50815,Blood Gas,Blood,O2 Flow,2133,1470,1.45,[LAB/Blood Gas/Blood] O2 Flow
+50884,Chemistry,Blood,"Bilirubin, Indirect",2724,1445,1.89,"[LAB/Chemistry/Blood] Bilirubin, Indirect"
+50964,Chemistry,Blood,"Osmolality, Measured",5799,1432,4.05,"[LAB/Chemistry/Blood] Osmolality, Measured"
+50909,Chemistry,Blood,Cortisol,2421,1415,1.71,[LAB/Chemistry/Blood] Cortisol
+50852,Chemistry,Blood,% Hemoglobin A1c,1419,1375,1.03,[LAB/Chemistry/Blood] % Hemoglobin A1c
+50967,Chemistry,Blood,Phenytoin,4271,1330,3.21,[LAB/Chemistry/Blood] Phenytoin
+51479,Hematology,Urine,Granular Casts,1597,1271,1.26,[LAB/Hematology/Urine] Granular Casts
+50907,Chemistry,Blood,"Cholesterol, Total",1323,1265,1.05,"[LAB/Chemistry/Blood] Cholesterol, Total"
+50904,Chemistry,Blood,"Cholesterol, HDL",1289,1232,1.05,"[LAB/Chemistry/Blood] Cholesterol, HDL"
+50903,Chemistry,Blood,Cholesterol Ratio (Total/HDL),1273,1220,1.04,[LAB/Chemistry/Blood] Cholesterol Ratio (Total/HDL)
+50905,Chemistry,Blood,"Cholesterol, LDL, Calculated",1208,1166,1.04,"[LAB/Chemistry/Blood] Cholesterol, LDL, Calculated"
+51266,Hematology,Blood,Platelet Smear,2224,1149,1.94,[LAB/Hematology/Blood] Platelet Smear
+51283,Hematology,Blood,"Reticulocyte Count, Automated",1271,1118,1.14,"[LAB/Hematology/Blood] Reticulocyte Count, Automated"
+51233,Hematology,Blood,Hypochromia,2080,1108,1.88,[LAB/Hematology/Blood] Hypochromia
+51137,Hematology,Blood,Anisocytosis,2079,1108,1.88,[LAB/Hematology/Blood] Anisocytosis
+51246,Hematology,Blood,Macrocytes,2079,1108,1.88,[LAB/Hematology/Blood] Macrocytes
+51252,Hematology,Blood,Microcytes,2079,1108,1.88,[LAB/Hematology/Blood] Microcytes
+51267,Hematology,Blood,Poikilocytosis,2079,1108,1.88,[LAB/Hematology/Blood] Poikilocytosis
+51268,Hematology,Blood,Polychromasia,2079,1108,1.88,[LAB/Hematology/Blood] Polychromasia
+51010,Chemistry,Blood,Vitamin B12,1016,982,1.03,[LAB/Chemistry/Blood] Vitamin B12
+51079,Chemistry,Urine,"Cocaine, Urine",919,900,1.02,"[LAB/Chemistry/Urine] Cocaine, Urine"
+51075,Chemistry,Urine,"Benzodiazepine Screen, Urine",922,888,1.04,"[LAB/Chemistry/Urine] Benzodiazepine Screen, Urine"
+51071,Chemistry,Urine,"Amphetamine Screen, Urine",901,881,1.02,"[LAB/Chemistry/Urine] Amphetamine Screen, Urine"
+51092,Chemistry,Urine,"Opiate Screen, Urine",902,879,1.03,"[LAB/Chemistry/Urine] Opiate Screen, Urine"
+51074,Chemistry,Urine,"Barbiturate Screen, Urine",896,877,1.02,"[LAB/Chemistry/Urine] Barbiturate Screen, Urine"
+51090,Chemistry,Urine,"Methadone, Urine",889,870,1.02,"[LAB/Chemistry/Urine] Methadone, Urine"
+51257,Hematology,Blood,Nucleated Red Cells,1553,829,1.87,[LAB/Hematology/Blood] Nucleated Red Cells
+50963,Chemistry,Blood,NTproBNP,855,770,1.11,[LAB/Chemistry/Blood] NTproBNP
+51501,Hematology,Urine,Transitional Epithelial Cells,807,713,1.13,[LAB/Hematology/Urine] Transitional Epithelial Cells
+50887,Chemistry,Blood,Blue Top Hold,848,699,1.21,[LAB/Chemistry/Blood] Blue Top Hold
+51213,Hematology,Blood,Fibrin Degradation Products,1328,694,1.91,[LAB/Hematology/Blood] Fibrin Degradation Products
+50925,Chemistry,Blood,Folate,710,688,1.03,[LAB/Chemistry/Blood] Folate
+51462,Hematology,Urine,Amorphous Crystals,825,677,1.22,[LAB/Hematology/Urine] Amorphous Crystals
+50803,Blood Gas,Blood,"Calculated Bicarbonate, Whole Blood",773,624,1.24,"[LAB/Blood Gas/Blood] Calculated Bicarbonate, Whole Blood"
+50976,Chemistry,Blood,"Protein, Total",686,616,1.11,"[LAB/Chemistry/Blood] Protein, Total"
+50917,Chemistry,Blood,Digoxin,1134,603,1.88,[LAB/Chemistry/Blood] Digoxin
+51102,Chemistry,Urine,"Total Protein, Urine",660,580,1.14,"[LAB/Chemistry/Urine] Total Protein, Urine"
+50999,Chemistry,Blood,Tricyclic Antidepressant Screen,587,577,1.02,[LAB/Chemistry/Blood] Tricyclic Antidepressant Screen
+50880,Chemistry,Blood,Benzodiazepine Screen,594,576,1.03,[LAB/Chemistry/Blood] Benzodiazepine Screen
+50879,Chemistry,Blood,Barbiturate Screen,583,572,1.02,[LAB/Chemistry/Blood] Barbiturate Screen
+51427,Hematology,Other Body Fluid,Lymphocytes,653,562,1.16,[LAB/Hematology/Other Body Fluid] Lymphocytes
+51431,Hematology,Other Body Fluid,Monos,653,562,1.16,[LAB/Hematology/Other Body Fluid] Monos
+51436,Hematology,Other Body Fluid,Polys,653,562,1.16,[LAB/Hematology/Other Body Fluid] Polys
+50995,Chemistry,Blood,"Thyroxine (T4), Free",622,561,1.11,"[LAB/Chemistry/Blood] Thyroxine (T4), Free"
+51260,Hematology,Blood,Ovalocytes,833,559,1.49,[LAB/Hematology/Blood] Ovalocytes
+51288,Hematology,Blood,Sedimentation Rate,624,555,1.12,[LAB/Hematology/Blood] Sedimentation Rate
+50889,Chemistry,Blood,C-Reactive Protein,697,554,1.26,[LAB/Chemistry/Blood] C-Reactive Protein
+50979,Chemistry,Blood,Red Top Hold,687,548,1.25,[LAB/Chemistry/Blood] Red Top Hold
+51007,Chemistry,Blood,Uric Acid,1497,513,2.92,[LAB/Chemistry/Blood] Uric Acid
+51099,Chemistry,Urine,Protein/Creatinine Ratio,581,511,1.14,[LAB/Chemistry/Urine] Protein/Creatinine Ratio
