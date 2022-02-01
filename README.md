@@ -72,7 +72,6 @@ multiproc=5
 bash run_residual_moe.bash 24 GRU 1 "--fast-folds 1 --hyper-weight-decay 1.5 --hyper-weight-decay 1.25 --hyper-weight-decay 1.0 --hyper-weight-decay 0.75 --hyper-weight-decay 0.5 --hidden-dim ${hidden_dim} --validate-every 2 --multiproc ${multiproc} --bptt 0 --eval-on-cpu --moe --moe_residual --moe_hidden_dim ${moe_hidden_dim} --moe_gate_type gru --moe_skip_train_basemodel --moe_zero_expert --moe_load_gru_model_from pretrained_models/GRU_final_model.model --moe_num_experts ${moe_num_experts} --learning-rate 0.0005"
 ``` 
 
-
 ## Trained (Output) Models
 
 The trained models that used to generate experiment reports are located under `pretrained_models` folder.
