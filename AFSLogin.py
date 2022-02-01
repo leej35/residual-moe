@@ -11,7 +11,6 @@ API_KEY = 'COMET_API_KEY'
 cmd_kinit = "kinit ID@DOMAIN <<< $key_container"
 
 
-
 def renew_token():
     pass
 
