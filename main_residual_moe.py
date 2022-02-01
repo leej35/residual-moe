@@ -134,7 +134,6 @@ def main():
 
     # Step5. test set running
 
-
     if args.adapt_mem:
         logger.info('='*32)
         logger.info("[main] Run train set memory write process")
@@ -224,3 +223,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    
