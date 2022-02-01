@@ -13,3 +13,6 @@ while True:
     experiment = Experiment("API_KEY")
     score = fit(suggestion["x"])
     suggestion.report_score("accuracy", score)
+
+    
+    
