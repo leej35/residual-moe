@@ -11,7 +11,6 @@ logging.basicConfig(
 logger.setLevel(logging.DEBUG)
 
 
-
 def get_parser():
 
     parser = ArgumentParser(
